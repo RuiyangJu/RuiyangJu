@@ -13,10 +13,6 @@
 
 
 
-![Visitor](https://komarev.com/ghpvc/?username=RuiyangJu&color=yellow&style=flat&label=PROFILE+VIEWS)
-
-
-
 
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Peter%20Chan&fontAlign=60&fontAlignY=40&color=gradient)
