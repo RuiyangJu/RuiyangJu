@@ -11,14 +11,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 
-
-
-
-
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Peter%20Chan&fontAlign=60&fontAlignY=40&color=gradient)
-
 [![](https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/peter-chan/home)
-[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=VrJbmCYAAAAJ&hl=zh-TW)
+[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=r8F35p8AAAAJ&hl=zh-TW&oi=ao)
 
 <!--<h1 align="center">Hi 👋, I'm Peter Chan 😄 </h1>-->
 <!--<h3 align="center">A Graduate student from National Taiwan University of Science and Technology in Taiwan.</h3>-->
