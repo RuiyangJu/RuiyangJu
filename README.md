@@ -10,5 +10,3 @@
 <h3 align="left">Profile Views:</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
-
-![123](https://starchart.cc/{RuiyangJu}/{repo}.svg)
