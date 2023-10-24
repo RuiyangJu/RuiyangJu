@@ -13,7 +13,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=RuiyangJu&color=yellow&style=flat&label=PROFILE+VIEWS)
+![Visitor](https://komarev.com/ghpvc/?username=RuiyangJu&color=yellow&style=flat&label=PROFILE+VIEWS)
 
 
 
