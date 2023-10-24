@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+The Number of Visitor: ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 <!--
 **RuiyangJu/RuiyangJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
