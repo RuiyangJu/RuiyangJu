@@ -2,7 +2,6 @@
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=r8F35p8AAAAJ&hl=zh-TW&oi=ao)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuiyangJu&show_icons=true&locale=en" alt="RuiyangJu" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiyangJu)](https://github.com/RuiyangJu/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
