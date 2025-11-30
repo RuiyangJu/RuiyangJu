@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=google-chrome&logoColor=white)](https://ruiyangju.github.io/)
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=r8F35p8AAAAJ&hl=zh-TW&oi=ao)
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RuiyangJu&show_icons=true&count_private=true&theme=tokyonight" />
 </p>
 
