@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=google-chrome&logoColor=white)](https://ruiyangju.github.io/)
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=r8F35p8AAAAJ&hl=zh-TW&oi=ao)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuiyangJu&show_icons=true&locale=en" alt="RuiyangJu" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
